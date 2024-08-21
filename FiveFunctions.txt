@@ -1,0 +1,24 @@
+// dh 8/21/24
+// five functions
+
+#include <iostream>
+
+// Define a function that says.
+// This is a function definition.
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+// This is a function definition.
+void sayHello(std::string name, int age) {}
+
+void addTwoInts(int, int);
+
+// call the function named sayHello with two arguments.
+sayHello(name: "Dennis", age:64)
+void addTwoInts(int num1, int num2) {
+    int theSum = 0;
+    mySum = addTwoInts(1,2);
+    cout << "\n The sum of two ints is: " << theSum << endl;
+    cout << "n Hello " << name << "your age is" << age;
+}
