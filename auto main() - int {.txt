@@ -1,0 +1,47 @@
+auto main() -> int {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+public class PayrollWithOvertime {
+    public static void main() {args}
+};
+}
+
+// Output the number of overtime hours worked.
+System.out.printf("\n Overtime hours = ");
+System.out.printf("%, .2f",otHrs)
+
+//Variables needed for Payroll program.
+// Output regular pay.
+System.out.printf("\n Regular pay = ");
+System.out.printf("\nWelcome to the Payroll with Overtime Program!\n");
+System.out.println("\nWelcome to Methods!\n");
+
+// Variables (members)
+String theUserName = "";
+
+//Create a Scanner object for user input.
+Scanner scanner = bew Scanner(System.in)
+
+//Get the user's name.
+System.out.println("\n Raynell ");
+theUserName = scanner.nextLine();
+
+// Create a method that get twos Integers and return their sum.
+static int sumTwoInts(int num1, int num2) {}
+int mySum = 0;
+mySum = num1 + num2;
+
+return mySum;
+
+public static void main(String args)
+
+// Call (invoke) our greeting method.
+aPersonalGreeting(somename: "...some literal string...");
+
+theHelloMethod();
+
+// variable.
+int aSum = 0;
+
+// Call our new sum method.
+aSum = sumTwoInts(3,4)
