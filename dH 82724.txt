@@ -1,0 +1,43 @@
+// dH 8/27/24
+// StringPractice.java
+
+
+public class StringPractice {
+    public static void main(String[] args)
+
+    System.out.println("\nWelcome to My String Practice Program !\n")
+};
+// Create a string object
+String myPracticeStr;
+myPracticeStr = "Hello from my string practice program!";
+System.out.println("\n myPracticeStr is : " + myPracticeStr):
+
+// Use a few String methods
+// a method is a object-oriented language name for a function\
+// methods always have a pair of () attached to them
+//
+// Use the toLowerCase()
+String myNewStr = "";
+myNewStr = myPracticeStr.toUpperCase();
+
+// Prove it...
+System.out.println("myNewStr is: " + myNewStr);
+
+// toLowerCase
+myNewStr = myPracticeStr.toLowerCase();
+System.out.println("myNewStr is: " + myNewStr);
+
+// use the length method
+// Create an int variable, because the length() method returns an int.
+int myInt = 0;
+
+// Find the length of our string project
+
+myInt = myPracticeStr.length();
+// create an int variable\
+int num1 = 0;
+char myChar = 'x';
+
+double myNewDouble = 8.8;
+
+}
